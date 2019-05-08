@@ -1,0 +1,101 @@
+/* Ref:  http://www.w3schools.com/css/css_syntax.asp */
+
+body, html {
+	height: 100%;
+	width: 100%;
+}
+body { /* General style rules for the body section */
+	background-color:#000000;
+	color: #000000;
+	text-align: center;
+}
+h1 { /* Matches elements with h3 tag */
+	color: #000000;
+}
+
+h2 { /* Matches elements with h3 tag */
+	color: #000000;
+}
+
+h3 { /* Matches elements with h3 tag */
+	color: #0000ff;
+}
+
+h4 { /* Matches elements with h3 tag */
+	color: #000000;
+}
+
+h5 { /* Matches elements with h3 tag */
+	color: #000000;
+}
+
+#div1 { /* Matches element with id=SimpleDiv */
+	background-color: #000000;
+
+	color: #FFFFFF;
+
+	border-style: solid groove;
+  border-width: 0px;
+	border-color: #000000;
+	margin: 0%;
+	padding: 6px;
+}
+#div2 {
+	background-color: #FFFFFF;
+	border-style: solid groove;
+  border-width: 0px;
+	border-color: #FFFFFF;
+	margin: 0%;
+	padding: 3px;
+	float: right;
+	width: 10%;
+}
+
+#div3 {
+	background-color: #FFFFFF;
+	border-style: solid groove;
+  border-width: 1px;
+	border-color: #FFFFFF;
+	margin: 0%;
+	padding: 2px;
+	float: left;
+	width: 10%;
+}
+
+#div4 {
+	background-color: #FFFFFF;
+	border-style: solid groove;
+  border-width: 2px;
+	border-color: #FFFFFF;
+	margin: 0%;
+	padding: 2px;
+	clear: center;
+}
+
+#pagetwo-background {
+	background-color: #240003;
+}
+
+#pagethree-background {
+	background-color: #450006;
+}
+
+#pagefour-background {
+	background-color: #520104;
+}
+
+#pagefive-background {
+	background-color: #7d0004;
+}
+
+#pagesix-background {
+	background-color: #bf0006;
+}
+
+#pageseven-background {
+	background-color: #ff0009;
+}
+
+#ending-background {
+	background-color: #ffffff;
+}
